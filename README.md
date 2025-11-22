@@ -9,8 +9,7 @@
 ---
 
 ### 🌐 Interested in my work?
-[![Fiverr](https://img.shields.io/badge/Fiverr-sn1kex-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/gDW7vj9)
-[![Instagram](https://img.shields.io/badge/Instagram-sn1kex._-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn1kex._)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-sn1kex-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/sn1kex)[![Instagram](https://img.shields.io/badge/Instagram-sn1kex._-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn1kex._)
 [![Email](https://img.shields.io/badge/Email-k1nik0kin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:k1nik0kin@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-ssnaakee-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/ssnaakee)
 
