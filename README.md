@@ -42,7 +42,7 @@
 - 🛠️ **Software Used:** After Effects (animation), Photoshop (cutting & GIF rendering)
 
 ---
-### 🌀 AN Edit
+### 🌀 AN Edit (Remake)
 
 [![Watch the video](Untitled.png)](https://drive.google.com/file/d/18hNBbDAruCdWxRETbVxGsWktxfCqWV5e/view?usp=sharing)
 
