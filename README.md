@@ -22,12 +22,7 @@
 - **Other:** Steam Artwork Creation, Video Editing
 
 ---
-
-![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=SnaKe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnaKe&layout=compact&theme=tokyonight)
-
----
-💌 Feel free to reach out through Instagram & Discord or Fiverr if you're interested in work!
+💌 Feel free to reach out through Instagram & Discord or Instagram if you're interested in work!
 ---
 
 ## 🎨 Projects
