@@ -22,7 +22,7 @@
 - **Other:** Steam Artwork Creation, Video Editing
 
 ---
-💌 Feel free to reach out through Instagram & Discord or Instagram if you're interested in work!
+💌 Feel free to reach out through Instagram & Discord if you're interested in work!
 ---
 
 ## 🎨 Projects
